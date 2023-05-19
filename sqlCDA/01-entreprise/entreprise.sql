@@ -4,7 +4,7 @@
 -- * pour ALL
 SELECT *
 FROM employes ;  -- affiche toutes les donnees table employe
-
+-- mm
 
 SELECT nom, prenom
 FROM employes;
