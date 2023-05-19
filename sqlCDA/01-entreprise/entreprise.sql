@@ -1,8 +1,6 @@
 --  ***********************************
 --     SELECT  Le read de notre CRUD
 --  **********************************
-
-
 -- * pour ALL
 SELECT *
 FROM employes ;  -- affiche toutes les donnees table employe
