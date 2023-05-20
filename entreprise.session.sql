@@ -26,3 +26,10 @@ CREATE TEMPORARY TABLE temp SELECT * FROM employes WHERE sexe = 'f';
 
 SELECT * from temp;
 
+SELECT DATE_ADD('2023-02-20', INTERVAL 20 DAY);
+
+SHOW GLOBAL VARIABLES like 'event_scheduler';
+
+show events \G $
+
+
